@@ -1,2 +1,2 @@
-# notes-app-back-end
+# Notes API
 Dicoding Project
